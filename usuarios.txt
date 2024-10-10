@@ -1,5 +1,4 @@
 <IT-1>{
-Picano teu cu;Arrombado
 Mosca Cega;2024_MC
 Hidra;Quarentona2024
 Te Fiti;Mel123
@@ -41,4 +40,5 @@ Sócrates;it2024@@
 Sartre;it2024@@
 Trajan O Eterno;NT&AV@030322
 Zaandor;marlboro75
+Testedosarrombados;teufundef
 }
