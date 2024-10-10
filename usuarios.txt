@@ -16,7 +16,6 @@ Paulista99;Forg3123
 Treevor;trevorxd1955
 }
 <IT-2>{
-pulta;safada
 Janio Pereira;Janio@Pereira
 Jaime Lannister;jJaime
 Lord Boros;bBoros
