@@ -40,5 +40,4 @@ Sócrates;it2024@@
 Sartre;it2024@@
 Trajan O Eterno;NT&AV@030322
 Zaandor;marlboro75
-Testedosarrombados;teufundef
 }
